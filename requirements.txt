@@ -1,0 +1,5 @@
+git+https://github.com/openai/whisper.git
+pytube
+pip install git+https://github.com/openai/whisper.git 
+
+https://git.ffmpeg.org/ffmpeg.git
